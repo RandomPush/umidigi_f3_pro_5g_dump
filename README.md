@@ -1,0 +1,14 @@
+# F3_Pro_5G_EEA-user 13 TP1A.220624.014 1681444900 release-keys
+- manufacturer: umidigi
+- platform: mt6833
+- codename: F3_Pro_5G
+- flavor: sys_mssi_64_cn_armv82-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: 1681444900
+- tags: release-keys
+- fingerprint: UMIDIGI/F3_Pro_5G_EEA/F3_Pro_5G:13/TP1A.220624.014/1681444900:user/release-keys
+- is_ab: true
+- brand: UMIDIGI
+- branch: F3_Pro_5G_EEA-user-13-TP1A.220624.014-1681444900-release-keys
+- repo: umidigi_f3_pro_5g_dump
